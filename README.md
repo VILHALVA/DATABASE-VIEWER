@@ -59,6 +59,7 @@ Este aplicativo é um visualizador de dados que permite ao usuário fazer o uplo
 * [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 * [CURSO DE VUEJS](https://github.com/VILHALVA/CURSO-DE-VUEJS)
 * [CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
+* [CURSO DE NODEJS COM MYSQL](https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL)
 * [CURSO DE JSON](https://github.com/VILHALVA/CURSO-DE-JSON)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
