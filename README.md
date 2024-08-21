@@ -54,7 +54,9 @@ Este aplicativo é um visualizador de dados que permite ao usuário fazer o uplo
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE BOOTSTRAP](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 * [CURSO DE VUEJS](https://github.com/VILHALVA/CURSO-DE-VUEJS)
 * [CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
 * [CURSO DE JSON](https://github.com/VILHALVA/CURSO-DE-JSON)
